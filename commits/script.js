@@ -18,3 +18,7 @@ function resta(x,y) {
 
 resta(38,23);
 
+function redondear(x) {
+    return Math.round(x);
+}
+redondear(28.6);
