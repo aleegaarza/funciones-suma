@@ -9,11 +9,12 @@ function suma(x,y) {
     console.log(x+y); 
 }
 
-suma(38+23);
+suma(38,23);
 
 
-function suma(x,y) {
-    console.log(x+y); 
+function resta(x,y) {
+    console.log(x-y); 
 }
 
-suma(38+23);
+resta(38,23);
+
